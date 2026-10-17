@@ -30,3 +30,31 @@ Suite de mon journal de formation front-end (dépôt `react-exercices`, jours 15
 **Prochaine séance** : manipuler les fichiers (`cp`, `mv`, `rm`, `cat`, `less`, `echo`, redirections).
 
 Notes détaillées : [notes/seance-01.md](notes/seance-01.md)
+
+---
+
+## Séance 2 : 17/10/2026
+
+**Objectif** : manipuler les fichiers depuis le terminal, dans un dossier d'entraînement.
+
+**Ce que j'ai fait**
+
+- Créé un bac à sable `~/bac-a-sable` pour m'entraîner sans risque.
+- Écrit et lu des fichiers avec `echo`, `>`, `>>`, `cat`, `less`, `wc -l`, `head`.
+- Copié, déplacé et renommé avec `cp`, `cp -r`, `mv`.
+- Supprimé avec `rm`, `rm -i`, `rmdir`, `rm -r`, et utilisé le joker `*`.
+
+**Ce que j'ai appris**
+
+- `>` écrase le contenu, `>>` ajoute à la suite.
+- `rm` supprime définitivement : pas de corbeille sous Linux.
+- Un dossier se copie ou se supprime avec `-r`.
+- Avant `rm *.log`, je lance `ls *.log` pour voir quels fichiers seront supprimés.
+
+**Difficultés**
+
+- Comprendre pourquoi `-r` est nécessaire pour les dossiers.
+
+**Prochaine séance** : droits et permissions (`chmod`, `chown`), utilisateurs, `sudo`.
+
+Notes détaillées : [notes/seance-02.md](notes/seance-02.md)

@@ -22,8 +22,9 @@ Je me prépare au **Pré-MSc Epitech** (rentrée septembre 2027) après une form
 
 ## Avancement
 
-| Séance | Date       | Thème                            | Notes                           |
-| ------ | ---------- | -------------------------------- | ------------------------------- |
-| 1      | 16/10/2026 | WSL, Ubuntu, premières commandes | [seance-01](notes/seance-01.md) |
+| Séance | Date       | Thème                                                 | Notes                           |
+| ------ | ---------- | ----------------------------------------------------- | ------------------------------- |
+| 1      | 16/10/2026 | WSL, Ubuntu, premières commandes                      | [seance-01](notes/seance-01.md) |
+| 2      | 17/10/2026 | Créer, lire, copier, déplacer, supprimer des fichiers | [seance-02](notes/seance-02.md) |
 
 Le détail de chaque séance est dans [JOURNAL.md](JOURNAL.md).
