@@ -58,3 +58,13 @@ Notes détaillées : [notes/seance-01.md](notes/seance-01.md)
 **Prochaine séance** : droits et permissions (`chmod`, `chown`), utilisateurs, `sudo`.
 
 Notes détaillées : [notes/seance-02.md](notes/seance-02.md)
+
+## Séance 3 : 21/10/2026
+
+- Vérification : séance 2 bien poussée sur GitHub (`git status` propre, `git log` OK).
+- Appris : lecture des droits avec `ls -l`, `chmod` (symbolique et numérique), `whoami`, `id`, `groups`, `sudo`, `chown`.
+- Exercice : dossier `projet-partage` (750) avec `public.txt` (644) et `secret.txt` (600).
+- Difficulté : penser à `-r` / `-R` pour la récursivité.
+- Erreurs corrigées : `ls -ld` (et non `ls -l`) pour un dossier seul ; `600` = `rw-` pour le propriétaire.
+
+Notes détaillées : [notes/seance-03.md](notes/seance-03.md)
