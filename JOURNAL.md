@@ -68,3 +68,12 @@ Notes détaillées : [notes/seance-02.md](notes/seance-02.md)
 - Erreurs corrigées : `ls -ld` (et non `ls -l`) pour un dossier seul ; `600` = `rw-` pour le propriétaire.
 
 Notes détaillées : [notes/seance-03.md](notes/seance-03.md)
+
+## Séance 4 : 23/10/2026
+
+- Appris : `grep` (`-i`, `-n`, `-c`, `-v`, `-l`, `-r`), pipes `|`, `sort`, `find` (`-name`, `-iname`, `-type`).
+- Exercice : dossier `recherche` avec fichiers `.txt`, recherches et comptages combinés avec des pipes.
+- Difficulté : savoir quelle commande choisir selon la situation, la pratique aidera.
+- Erreurs corrigées : `grep -l` (noms de fichiers, pas contenu du dossier) ; `-type d` et non `-d` ; rôle des guillemets dans `find -name`.
+
+Notes détaillées : [notes/seance-04.md](notes/seance-04.md)
