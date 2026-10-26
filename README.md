@@ -28,5 +28,6 @@ Je me prépare au **Pré-MSc Epitech** (rentrée septembre 2027) après une form
 | 2      | 17/10/2026 | Créer, lire, copier, déplacer, supprimer des fichiers | [seance-02](notes/seance-02.md) |
 | 3      | 21/10/2026 | Droits et permissions : `chmod`, `chown`, `sudo`      | [seance-03](notes/seance-03.md) |
 | 4      | 23/10/2026 | Pipes, `grep` et `find`                               | [seance-04](notes/seance-04.md) |
+| 5      | 26/10/2026 | Processus, variables d'environnement et `PATH`        | [seance-05](notes/seance-05.md) |
 
 Le détail de chaque séance est dans [JOURNAL.md](JOURNAL.md).

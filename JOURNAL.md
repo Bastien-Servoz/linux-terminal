@@ -77,3 +77,12 @@ Notes détaillées : [notes/seance-03.md](notes/seance-03.md)
 - Erreurs corrigées : `grep -l` (noms de fichiers, pas contenu du dossier) ; `-type d` et non `-d` ; rôle des guillemets dans `find -name`.
 
 Notes détaillées : [notes/seance-04.md](notes/seance-04.md)
+
+## Séance 5 : 26/10/2026
+
+- Appris : `ps`, `top`, `jobs`, `&`, `kill` / `kill -9` / `pkill`, variables d'environnement (`$`, `export`, `env`), `PATH`, `which`, `~/.bashrc`.
+- Exercice : `sleep 500` lancé en arrière-plan puis arrêté avec `kill` ; script `~/bin/salut` appelable de partout grâce au PATH.
+- Difficulté : comprendre le PATH et retenir les commandes ; la pratique et les notes aideront.
+- Erreurs corrigées : `grep -l` (noms de fichiers qui contiennent le motif) ; rôle des guillemets dans `find -name` (c'est le shell qu'on empêche d'interpréter le `*`) ; rôle précis de `export`.
+
+Notes détaillées : [notes/seance-05.md](notes/seance-05.md)
